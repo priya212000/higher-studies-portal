@@ -1,4 +1,4 @@
-# higher-studies-portal
+# Higher Education Portal 
 A Web application is an application that is invoked with a Web browser over
 the Internet. Career Guidance portal gives guidance in choosing the future for the
 students who have completed their undergraduate degree . It provides detailed
